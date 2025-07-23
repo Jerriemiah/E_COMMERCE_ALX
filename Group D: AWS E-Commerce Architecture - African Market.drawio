@@ -23,7 +23,7 @@
           <mxGeometry y="80" width="1200" height="123" as="geometry" />
         </mxCell>
         <mxCell id="nSHwTRVry-LW_iIkhGNn-2" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;dashed=1;strokeColor=light-dark(#000000,#D3D3D3);glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="240" width="320" height="440" as="geometry" />
+          <mxGeometry x="1280" y="240" width="320" height="480" as="geometry" />
         </mxCell>
         <mxCell id="sDEc0Gv_ijARRJc-_JzN-4" value="&lt;b&gt;&lt;font face=&quot;Arial Bold&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 25px;&quot;&gt;GLOBAL SERVICES AND CDN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="90" width="400" height="30" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="1280" y="760" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="nSHwTRVry-LW_iIkhGNn-9" value="&lt;font face=&quot;Arial Bold&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Monitoring &amp;amp; Loggin&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="770" width="390" height="30" as="geometry" />
+          <mxGeometry x="1245" y="767" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nSHwTRVry-LW_iIkhGNn-10" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" vertex="1" parent="1">
           <mxGeometry x="555" y="120" width="80" height="80" as="geometry" />
@@ -179,14 +179,14 @@
         <mxCell id="nSHwTRVry-LW_iIkhGNn-62" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="1320" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nSHwTRVry-LW_iIkhGNn-63" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Arial Bold&quot;&gt;S3 Static Assets&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Arial Bold&quot;&gt;CSS, JS, Fonts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Arial Bold&quot;&gt;Versioning Enabled&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nSHwTRVry-LW_iIkhGNn-63" value="&lt;font face=&quot;Arial Bold&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot;&gt;S3 Static Assets&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Arial Bold&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot;&gt;CSS, JS, Fonts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Arial Bold&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot;&gt;Versioning Enabled&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1400" y="296" width="120" height="5" as="geometry" />
         </mxCell>
         <mxCell id="nSHwTRVry-LW_iIkhGNn-64" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="1320" y="400.5" width="83.5" height="83.5" as="geometry" />
         </mxCell>
-        <mxCell id="nSHwTRVry-LW_iIkhGNn-65" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Arial Bold&quot;&gt;S3 Static Assets&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Arial Bold&quot;&gt;CSS, JS, Fonts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot; face=&quot;Arial Bold&quot;&gt;Versioning Enabled&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="404.25" width="140" height="30" as="geometry" />
+        <mxCell id="nSHwTRVry-LW_iIkhGNn-65" value="&lt;font face=&quot;Arial Bold&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot;&gt;S3 Static Assets&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Arial Bold&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot;&gt;CSS, JS, Fonts&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Arial Bold&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 13px;&quot;&gt;Versioning Enabled&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1390" y="405.25" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
